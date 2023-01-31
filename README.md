@@ -1,3 +1,21 @@
+This project is for a job interview at Fetch Rewards - There is a simple form where, upon submit, 
+
+a POST request is fired off to an API endpoint, which successfully adds a user's information.
+
+A user must input information for each field in order for this endpoint to be reached
+
+Simple as that! 
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
