@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.form-container {
+  margin: 3% auto;
+  width: 50%;
+  border: 1px solid #0b0909;
+}
+.form-content { 
+  
+  padding: 20px; 
+  border-bottom: 1px solid #aaa;
+  
+}
+
+.submit-bttn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+input {
+  width: 50%;
+} 
+
+select {
+  width: 25%;
+}
